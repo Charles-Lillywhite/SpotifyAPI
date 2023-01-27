@@ -133,8 +133,8 @@ available_genres = {"acoustic",
 AUTH_BASE_URL = "https://accounts.spotify.com/authorize"
 TOKEN_URL = "https://accounts.spotify.com/api/token"
 REDIRECT_URI = 'https://open.spotify.com/collection/playlists'
-CLIENT_ID = '9f25e813f5a24420999161fc2c04718b'
-CLIENT_SECRET = '2e4932ec26fd4f97873fbdf1e9d03caa'
+#CLIENT_ID = ###
+#CLIENT_SECRET = ###
 BASE_URL = 'https://api.spotify.com/v1/'
 
 def get_token():
